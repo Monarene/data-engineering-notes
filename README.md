@@ -16,4 +16,5 @@ I advice that you study the notes in the following order
 View my certificate here => https://confirm.udacity.com/3JDEE36T
 
 Follow me on linkeIn here => https://www.linkedin.com/in/michael-mekuleyi-22ab41149/
+
 Follow me on Twitter here => https://twitter.com/monnarene

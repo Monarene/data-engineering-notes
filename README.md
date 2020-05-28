@@ -2,7 +2,7 @@
 
 This repository contains the personal notes I took while studying the data engineering Nanodegree.
 
-Please read with a pretty open mind, also do not mind that I used "=>" to denote definitions, they are one of my favorite notations for definition and other things.
+Please read with a pretty open mind, also do not mind that I used "=>" to denote definitions, they are one of my favorite notations when writing.
 
 ## Order to take the notes
 
